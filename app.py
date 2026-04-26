@@ -21,7 +21,15 @@ st.markdown("""
         background-color: #1e2130;
         padding: 15px;
         border-radius: 10px;
-        border: 1px solid #3e4150;
+        border: 1px solid #ff4b4b;
+        color: #ffffff !important;
+    }
+    [data-testid="stMetricValue"] {
+        color: #ff4b4b !important;
+        font-weight: bold;
+    }
+    [data-testid="stMetricLabel"] {
+        color: #e0e0e0 !important;
     }
     </style>
     """, unsafe_allow_html=True)
