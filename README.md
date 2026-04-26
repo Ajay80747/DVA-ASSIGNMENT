@@ -26,6 +26,10 @@ This project performs a comprehensive analysis of Instagram social media data (5
    ```bash
    streamlit run app.py
    ```
+   *Note: If you encounter a "PermissionError" or "Access is denied" on Windows, try:*
+   ```powershell
+   $env:USERPROFILE=$pwd; streamlit run app.py
+   ```
 
 4. **Open the Notebook**:
    Use Google Colab or Jupyter to run `DVA_A2.ipynb` for the full analysis pipeline.
