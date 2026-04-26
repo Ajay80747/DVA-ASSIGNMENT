@@ -144,7 +144,7 @@ with tab3:
 
     node_trace = go.Scatter(x=node_x, y=node_y, mode='markers', hoverinfo='text',
                             marker=dict(showscale=True, colorscale='Viridis', size=12,
-                                        colorbar=dict(thickness=15, title='Connections', xanchor='left', titleside='right')))
+                                        colorbar=dict(thickness=15, title=dict(text='Connections', side='right'), xanchor='left')))
     
     fig_network = go.Figure(data=[edge_trace, node_trace],
                            layout=go.Layout(showlegend=False, hovermode='closest',
