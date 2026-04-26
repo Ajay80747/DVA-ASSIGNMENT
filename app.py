@@ -227,4 +227,4 @@ with tab5:
 
 # Footer
 st.markdown("---")
-st.markdown("© 2026 DVA Assignment Project | Developed by Ajay")
+st.markdown("© 2026 DVA Assignment Project")
