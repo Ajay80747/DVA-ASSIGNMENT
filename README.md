@@ -9,6 +9,27 @@ This project performs a comprehensive analysis of Instagram social media data (5
 - **Data Storytelling**: Narrative-driven insights into regional engagement trends.
 - **Streamlit Dashboard**: A modern, interactive UI with dark theme, sidebar filters, and KPI metrics.
 
+## 🛠️ Installation & Usage
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Ajay80747/DVA-ASSIGNMENT.git
+   cd DVA-ASSIGNMENT
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   pip install streamlit pandas numpy plotly scikit-learn networkx transformers torch
+   ```
+
+3. **Run the Streamlit Dashboard**:
+   ```bash
+   streamlit run app.py
+   ```
+
+4. **Open the Notebook**:
+   Use Google Colab or Jupyter to run `DVA_A2.ipynb` for the full analysis pipeline.
+
 ## 🛠️ Tech Stack
 - **Python**: Pandas, NumPy, Scikit-learn
 - **Visualization**: Plotly, Matplotlib, Seaborn
