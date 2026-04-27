@@ -50,4 +50,11 @@ This project performs a comprehensive analysis of Instagram social media data (5
 > "Act as a Senior Data Scientist. Create a complete Python pipeline for Instagram Social Media Analysis. The pipeline must include: 1) Multilingual data simulation (500k records) for languages like Hindi, Telugu, Marathi. 2) TF-IDF vectorization. 3) PCA and t-SNE dimensionality reduction with 2D/3D Plotly visualizations. 4) Network Analysis using NetworkX to find user clusters. 5) Sentiment analysis using Multilingual BERT. 6) A Data Storytelling section explaining insights. 7) A modern Streamlit dashboard with dark theme, sidebar filters, KPI cards, and interactive tabs. DO NOT use Tableau; use only Python libraries like Plotly and Streamlit for all visualizations."
 
 ---
-*Developed for DVA Assignment - 2026*
+📬 Contact
+Mentor: P. Srikanth
+GitHub: https://github.com/srikanth5
+
+Gorakanti Ajay Kumar
+Mail:ajaykumargorakanti3@gmail.com
+
+
