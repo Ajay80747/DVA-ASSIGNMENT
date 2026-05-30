@@ -24,7 +24,6 @@ This project performs a comprehensive analysis of Instagram social media data (5
 3. **Run the Streamlit Dashboard**:
    ```bash
    streamlit run app.py
-   ```
    *Note: If you encounter a "PermissionError" or "Access is denied" on Windows, try:*
    ```powershell
    $env:USERPROFILE=$pwd; streamlit run app.py
