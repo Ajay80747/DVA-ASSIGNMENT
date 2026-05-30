@@ -10,7 +10,6 @@ This project performs a comprehensive analysis of Instagram social media data (5
 - **Streamlit Dashboard**: A modern, interactive UI with dark theme, sidebar filters, and KPI metrics.
 
 ## 🛠️ Installation & Usage
-
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Ajay80747/DVA-ASSIGNMENT.git
